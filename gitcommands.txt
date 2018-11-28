@@ -1,3 +1,5 @@
+This is for GitHub
+
 BASIC COMMANDS
 git           => says I'm using git
 git --version => tells me what version of git I'm using
